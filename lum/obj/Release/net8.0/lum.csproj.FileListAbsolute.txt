@@ -1,0 +1,14 @@
+G:\lum\lum\bin\Release\net8.0\lum.exe
+G:\lum\lum\bin\Release\net8.0\lum.deps.json
+G:\lum\lum\bin\Release\net8.0\lum.runtimeconfig.json
+G:\lum\lum\bin\Release\net8.0\lum.dll
+G:\lum\lum\bin\Release\net8.0\lum.pdb
+G:\lum\lum\obj\Release\net8.0\lum.GeneratedMSBuildEditorConfig.editorconfig
+G:\lum\lum\obj\Release\net8.0\lum.AssemblyInfoInputs.cache
+G:\lum\lum\obj\Release\net8.0\lum.AssemblyInfo.cs
+G:\lum\lum\obj\Release\net8.0\lum.csproj.CoreCompileInputs.cache
+G:\lum\lum\obj\Release\net8.0\lum.dll
+G:\lum\lum\obj\Release\net8.0\refint\lum.dll
+G:\lum\lum\obj\Release\net8.0\lum.pdb
+G:\lum\lum\obj\Release\net8.0\lum.genruntimeconfig.cache
+G:\lum\lum\obj\Release\net8.0\ref\lum.dll
